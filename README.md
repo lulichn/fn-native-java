@@ -23,3 +23,12 @@ Executing docker command: run --rm -e FN_FUNCTION_NAME=native fnproject/fn-java-
 func.yaml created.
 ```
 
+### Go
+
+```sh
+$ fn init --runtime go go
+Creating function at: ./go
+Function boilerplate generated.
+func.yaml created.
+```
+
